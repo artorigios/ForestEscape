@@ -1,5 +1,5 @@
 # ForestEscape
-Side project in form of a minimalistic front page including a navigation/menu with the help of JS.
+Side project consisting of a minimalistic front page including a navigation/menu with the help of JS.
 
 
 # Credit
